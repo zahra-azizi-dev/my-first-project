@@ -1,12 +1,19 @@
 # my-first-project
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal](https://github.com/user-attachments/assets/5e2ae480-c239-4578-8fe7-8596bc2be589)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
+![view final](https://github.com/user-attachments/assets/6d00d0e1-41f5-4c03-839d-39cde126c36d)
+
 ABOUT THIS PROJECT
 📌-This is my first web project built using HTML and CSS.
 I created a simple webpage to practice structure, layout, and styling.
 It helped me learn the basics of frontend development and boosted my confidence.
 💻- [Demo Project](https://zahra-azizi-dev.github.io/my-first-project/)
+📷 Preview | Screenshots
+![viewfinal](https://github.com/user-attachments/assets/5e2ae480-c239-4578-8fe7-8596bc2be589)
+
+
+![view final](https://github.com/user-attachments/assets/6d00d0e1-41f5-4c03-839d-39cde126c36d)
 
 👩‍💻- Developed by zahra azizi
 
