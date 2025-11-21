@@ -1,8 +1,4 @@
 # my-first-project
-![viewfinal](https://github.com/user-attachments/assets/5e2ae480-c239-4578-8fe7-8596bc2be589)
-
-
-![view final](https://github.com/user-attachments/assets/6d00d0e1-41f5-4c03-839d-39cde126c36d)
 
 ABOUT THIS PROJECT
 📌-This is my first web project built using HTML and CSS.
